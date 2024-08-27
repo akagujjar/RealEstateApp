@@ -1,6 +1,4 @@
-# Firebase Authentication in React Native and Typescript and Expo
-This is very basic app focusing on firebase authentication with email and password only.
-
+![Screenshot_20240827_173355](https://github.com/user-attachments/assets/2af0dcd8-88f8-402e-ab4c-2a4b585c538d)
 
 ## To run app :
 1. npm i
@@ -8,6 +6,7 @@ This is very basic app focusing on firebase authentication with email and passwo
 3. i (for iOs) or scan code on Expo Go app in your mobile.
 
 ## Screenshots:
-![Screenshot 2023-03-14 at 16.54.34.png](assets%2FScreenshot%202023-03-14%20at%2016.54.34.png)
-![Screenshot 2023-03-14 at 16.55.03.png](assets%2FScreenshot%202023-03-14%20at%2016.55.03.png)
-![Screenshot 2023-03-14 at 16.55.15.png](assets%2FScreenshot%202023-03-14%20at%2016.55.15.png)
+
+![Screenshot_20240827_173355](https://github.com/user-attachments/assets/cc0f0cc6-b933-4d1a-a851-b0a908b917dd)
+![Screenshot_20240827_173403](https://github.com/user-attachments/assets/dc497946-04c0-409e-b18c-7c33147e906c)
+![Screenshot_20240827_173415](https://github.com/user-attachments/assets/ddb4c5be-b899-490c-bfd7-97f6907a3aef)

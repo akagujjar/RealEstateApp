@@ -1,4 +1,4 @@
-![Screenshot_20240827_173355](https://github.com/user-attachments/assets/2af0dcd8-88f8-402e-ab4c-2a4b585c538d)
+
 
 ## To run app :
 1. npm i

@@ -78,8 +78,6 @@ if(haversine(start, end) <= 30){
   };
 
   const sendNotification = async (recipient, message) => {
-    // Implement your notification sending logic here
-    // For example, using Expo's notification API
     await Notifications.scheduleNotificationAsync({
       content: {
         title: recipient,
@@ -88,6 +86,7 @@ if(haversine(start, end) <= 30){
       trigger: null,
     });
   };
+
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView contentContainerStyle={styles.contentContainer}>
